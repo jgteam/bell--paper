@@ -18,7 +18,7 @@ Projekt "3D Koordinatensystem":
 - [3D Koordinatensystem in Node](https://github.com/jgteam/bell--3d-coordinate-system--nodejs)
 
 Projekt "File Manager API":
-- [File Manager API in Node](https://github.com/jgteam/bell--file-manager--nodejs)
+- [File Manager API in Nodejs](https://github.com/jgteam/bell--file-manager--nodejs)
 - [File Manager API in Deno](https://github.com/jgteam/bell--file-manager--deno)
 - [File Manager API in PHP](https://github.com/jgteam/bell--file-manager--php)
 - [File Manager API in PHP (ohne JavaScript)](https://github.com/jgteam/bell--file-manager--php--nojs)
