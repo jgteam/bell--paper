@@ -15,7 +15,7 @@
 Diese Repos beinhaltet die verschiedenen Projekte, welche im Zusammenhang mit dieser Ausarbeitung entstanden sind:
 
 Projekt "3D Koordinatensystem":
-- [3D Koordinatensystem in Node](https://github.com/jgteam/bell--3d-coordinate-system--nodejs)
+- [3D Koordinatensystem in Nodejs](https://github.com/jgteam/bell--3d-coordinate-system--nodejs)
 
 Projekt "File Manager API":
 - [File Manager API in Nodejs](https://github.com/jgteam/bell--file-manager--nodejs)
