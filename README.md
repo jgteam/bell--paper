@@ -1,5 +1,7 @@
 # Schriftliche Ausarbeitung der besonderen Lernleistung INF 20 21
 
+❗ Aus persönlichen Gründen ist der Quellcode und somit auch das GitHub-Repository für das Markdown CMS nicht mehr öffentlich zugänglich. (04.05.2022)
+
 💡 Dieses Repo beinhaltet die schriftliche Ausarbeitung der besonderen Lernleistung im Fach Informatik von Jannis Günsche.
 
 **Ausarbeitung:**
@@ -23,6 +25,6 @@ Projekt "File Manager API":
 - [File Manager API in PHP](https://github.com/jgteam/bell--file-manager--php)
 - [File Manager API in PHP (ohne JavaScript)](https://github.com/jgteam/bell--file-manager--php--nojs)
 
-Projekt "Markdown-CMS":
-- [Markdown-CMS in Nodejs](https://github.com/jgteam/bell--markdown-cms--nodejs)
-- [Markdown-CMS in PHP](https://github.com/jgteam/bell--markdown-cms--php)
+~~Projekt "Markdown-CMS"~~:
+- [~~Markdown-CMS in Nodejs~~](https://github.com/jgteam/bell--markdown-cms--nodejs)
+- [~~Markdown-CMS in PHP~~](https://github.com/jgteam/bell--markdown-cms--php)
