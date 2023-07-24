@@ -25,6 +25,6 @@ Projekt "File Manager API":
 - [File Manager API in PHP](https://github.com/jgteam/bell--file-manager--php)
 - [File Manager API in PHP (ohne JavaScript)](https://github.com/jgteam/bell--file-manager--php--nojs)
 
-~~Projekt "Markdown-CMS"~~:
+~~Projekt "Markdown-CMS"~~: (Closed-Source for now)
 - [~~Markdown-CMS in Nodejs~~](https://github.com/jgteam/bell--markdown-cms--nodejs)
 - [~~Markdown-CMS in PHP~~](https://github.com/jgteam/bell--markdown-cms--php)
