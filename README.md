@@ -10,6 +10,8 @@
 **Zu den Abbildungen:**
 [Alle Abbildungen in der Übersicht](figures/overview.md)
 
+**Endnote:** 1,0
+
 ## Thema
 > In dieser Ausarbeitung werde ich ausführlich Vor- und Nachteile, sowie grundlegende Unterschiede, von verschiedenen *Softwarestacks* für die Webentwicklung hervorheben. Ein Softwarestack wird auf Node.js-basieren und steht bei diesem Vergleich im Mittelpunkt. Ich werde außerdem auf die verschiedenen Funktionsweisen eingehen und welche Möglichkeiten die einzelnen *Backend* Technologien bieten. Dafür habe ich eigene Webanwendungen in Verbindung mit verschiedenen Softwarelösungen entwickelt, damit ich an diesen Unterschiede veranschaulichen kann.
 
